@@ -1,7 +1,7 @@
 SeGe Jung
 CS7641
 
-1. Download the repository at https://github.com/segejung/Machine-learning
+1. Download the repository at https://github.com/segejung/assignment2-machine-learning
 2. Download these packages
 numpy
 scipy
